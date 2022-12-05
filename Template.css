@@ -1,0 +1,60 @@
+h1 { font-size: 40px;
+font-family: poppins;
+color: 3eccfd;}
+
+h2 {font-size: 30px  ;
+	font-family: Roboto Slab;
+	color: 0069bf;}
+p {font-size: 35px;
+	font-family: Quicksand;
+	color: 3eccfd;}
+h3 { font-size: 40px;
+	font-family:cursive ;
+	color: 0069bf; }
+h5 {font-size: 35px;
+   	font-family: Quicksand;
+   	color: 3eccfd;}
+Introduction {background: https://img.freepik.com/free-vector/cartoon-decoration-party-celebrate-birthday-flags-with-confetti-festival-background-fun-event-decorations-illustration_102902-1755.jpg?size=626&ext=jpg}
+
+.container {
+  height: 200px;
+  position: relative;
+  border: none;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+
+ .header
+
+  border: none;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    font; Poppins
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  h6 {font-size: 15px  ;
+      	font-family: Quicksand;
+      	color: 0069bf;
+  }
+
+ h7 {
+ font-size: 20px  ;
+       	font-family: Quicksand;
+       	color: 0069bf;
+ }
+
+.button {
+height: 20px;
+width: 20px;
+}
+
